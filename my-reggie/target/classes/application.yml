@@ -41,7 +41,7 @@ constant:
 
 #短信配置
 SMSCloud:
-  AssessKey: LTAI5tMbypp1V3tT13v7gGEm
-  Secret: 6wacR0drXjeSHkKMcHCNEd5oTFDQ8W
+  AssessKey:
+  Secret:
 
 
